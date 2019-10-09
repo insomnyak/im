@@ -1,4 +1,4 @@
-# Insomnyak IM API
+# Insomnyak IM Library
 Latest Version: 1.0.7
 
 This library contains the following:
