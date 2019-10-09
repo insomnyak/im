@@ -6,5 +6,5 @@ This library contains the following:
  - **Ansi Color Codes:** class with static elements to change the text color of the command line 
  - **EntityDao:** interface with the basic CRUD functionality for use with the JdbcTemplate approach
  - **regex package:**
-  - DateRx: YYYYMMDD formats
-  - IpAddress: 0.0.0.0 to 255.255.255.255
+       - DateRx: YYYYMMDD formats
+       - IpAddress: 0.0.0.0 to 255.255.255.255
